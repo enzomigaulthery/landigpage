@@ -1,0 +1,67 @@
+
+header{
+    background-color: rgba(200, 255, 0, 0.747);
+
+}
+h1{
+    font-size: 500%;
+    display: flex;
+    justify-content: center;
+}
+#logomarque{
+    max-width: 25%;
+    height: auto;
+}
+.lien{
+    font-size: 300%;
+    display: flex;
+    justify-content: space-around;
+}
+.produit{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#patate{
+    max-width: 300%;
+    height: auto;
+}
+#bonpoint{
+    display: flex;
+    align-items: center;
+}
+#bonusemotion{
+    max-width: 25%;
+    height: auto;
+}
+#innovation{
+    max-width: 25%;
+    height: auto;
+}
+.bonus{
+    max-width: 15%;
+    height: auto;
+}
+#com{
+    display: flex;
+    justify-content: center;
+}
+.lescom{
+    display: flex;
+    justify-content: space-around;
+}
+.fin{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.reseaux{
+    display: flex;
+    align-items: center;
+}
+#mention{
+    font-size: 200%;
+}
+#suivez{
+    font-size: 200%;
+}
